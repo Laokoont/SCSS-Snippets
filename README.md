@@ -9,6 +9,7 @@ This Package contains Snippets for use with SCSS and are forked from kuroir's SC
 * `+++` -> `@import`
 * `=` -> `@mixin`
 * `for` -> `@for`
+* `each` -> `@each`
 * `if` -> `@if`
 * `@f` -> `@font-face`
 * `@m` -> `@media`
